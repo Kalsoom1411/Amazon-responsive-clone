@@ -3,7 +3,7 @@
 A clean, responsive, and interactive frontend clone of the Amazon website built using pure HTML5, CSS3, and Vanilla JavaScript.
 
 ## 🔗 Live Demo
-[View Live Site](https://amazon-frontend-project-v1.netlify.app)
+[View Live Site](https://amazon-web-clone-v1.netlify.app)
 
 ## 🌟 Features
 - **Responsive Layout:** Optimized navigation and display for desktop, tablet, and mobile devices.
